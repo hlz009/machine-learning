@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
+# In[9]:
 
 
 #coding=utf-8
@@ -12,7 +12,7 @@ import numpy as np
 
 npArray = np.array([0,2,3,4])
 # print(npArray)
-# print(help(np.array))
+print(help(np.array))
 
 
 # In[ ]:
